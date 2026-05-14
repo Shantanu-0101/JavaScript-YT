@@ -1,2 +1,2 @@
 # JavaScript-HC
-The Repo is to code in JS only
+The Repo is to learn everything about JavaScript.
